@@ -33,6 +33,28 @@ Saucy, garlicky black beans with a bright hit of lime, made for stuffing into bu
 
 Add the lime at the end, off the heat. Cooking it dulls the flavor.
 
+## Nutrition Facts
+
+Per serving (about ¾ cup, ¼ of the recipe). These are estimates for the beans only, without the tortilla or other fillings.
+
+| Nutrient | Without butter | With butter |
+| --- | --- | --- |
+| Calories | 195 | 220 |
+| Total fat | 5 g | 8 g |
+| Saturated fat | 0.7 g | 2.5 g |
+| Carbohydrates | 28 g | 28 g |
+| Fiber | 9 g | 9 g |
+| Sugars | 1.5 g | 1.5 g |
+| Protein | 9 g | 9 g |
+| Sodium | ~450 mg | ~450 mg |
+
+Notes:
+
+- The black bean figures come from USDA FoodData Central entry 2644285 ("Beans, black, canned, sodium added, drained and rinsed"), assuming about 250 g of drained beans per can. Fiber comes from the USDA low-sodium canned black bean entry. The other ingredients use typical values, and saturated fat and sugars are rough estimates.
+- Figures also assume low-sodium broth and ½ tsp Diamond Crystal kosher salt. Brands vary, so check your labels.
+- Most of the sodium comes from the canned beans. With no-salt-added beans, it drops to under 200 mg per serving. Morton kosher salt is about twice as salty by volume as Diamond Crystal, so if you use it, cut the salt to ¼ tsp.
+- Leaving out the jalapeño or swapping broth for water barely changes the numbers.
+
 ## Burrito Assembly Ideas
 
 Use warm flour tortillas and layer:
