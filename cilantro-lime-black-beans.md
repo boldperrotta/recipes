@@ -50,7 +50,7 @@ Per serving (about ¾ cup, ¼ of the recipe). These are estimates for the beans 
 
 Notes:
 
-- The black bean figures come from USDA FoodData Central entry 2644285 ("Beans, black, canned, sodium added, drained and rinsed"), assuming about 250 g of drained beans per can. Fiber comes from the USDA low-sodium canned black bean entry. The other ingredients use typical values, and saturated fat and sugars are rough estimates.
+- The black bean figures come from USDA FoodData Central entry 2644285 ("Beans, black, canned, sodium added, drained and rinsed"), assuming about 250 g of drained beans per can. Fiber comes from the USDA low-sodium canned black bean entry. The other ingredients come from USDA SR Legacy entries (olive oil 04053, onion 11282, garlic 11215, jalapeño 11979, cumin 02014, chili powder 02009, oregano 02027, paprika 02028, low-sodium chicken broth 06970, salt 02047, lime juice 09160, cilantro 11165, unsalted butter 01145), which can be looked up by NDB number in [USDA FoodData Central](https://fdc.nal.usda.gov/).
 - Figures also assume low-sodium broth and ½ tsp Diamond Crystal kosher salt. Brands vary, so check your labels.
 - Most of the sodium comes from the canned beans. With no-salt-added beans, it drops to under 200 mg per serving. Morton kosher salt is about twice as salty by volume as Diamond Crystal, so if you use it, cut the salt to ¼ tsp.
 - Leaving out the jalapeño or swapping broth for water barely changes the numbers.

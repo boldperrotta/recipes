@@ -32,10 +32,24 @@ Source: [The Almond Eater](https://thealmondeater.com/high-protein-egg-muffins/)
 
 ## Nutrition (per serving)
 
-- Calories: 165
-- Protein: 11g
-- Fat: 13g
-- Carbohydrates: 1g
+Per serving (1 muffin, 1/12 of the recipe). Calculated from USDA data for each ingredient (see sources below).
+
+- Calories: 170
+- Protein: 12 g
+- Total fat: 13 g
+- Saturated fat: 5 g
+- Carbohydrates: 1.5 g
+- Fiber: 0 g
+- Sugars: 1 g
+- Sodium: 275 mg
+- Cholesterol: 205 mg
+
+**Sources and assumptions:**
+
+- Nutrient values come from the USDA National Nutrient Database for Standard Reference, Legacy Release (SR Legacy). It is available in [USDA FoodData Central](https://fdc.nal.usda.gov/), where each entry can be found by its NDB number. Quantities were converted to grams using USDA portion weights where available.
+- USDA entries used: olive oil: NDB 04053 (Oil, olive, salad or cooking); breakfast sausage: NDB 07063 (Pork sausage, link/patty, unprepared); spinach: NDB 11457 (Spinach, raw); cottage cheese: NDB 01012 (Cheese, cottage, creamed, large or small curd); milk (2%): NDB 01079 (Milk, reduced fat, fluid, 2% milkfat, with added vitamin A and vitamin D); eggs (large): NDB 01123 (Egg, whole, raw, fresh); cheddar cheese: NDB 01009 (Cheese, cheddar); chives: NDB 11156 (Chives, raw).
+- Uses pork breakfast sausage. Turkey breakfast sausage (NDB 07919) saves about 8 calories and 1 g fat per muffin.
+- Salt and pepper to taste are not included.
 
 ## Notes
 

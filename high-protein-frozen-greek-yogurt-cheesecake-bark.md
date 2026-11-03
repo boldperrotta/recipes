@@ -37,12 +37,24 @@ Source: [Fit Men Cook](https://fitmencook.com/recipes/high-protein-frozen-greek-
 
 ## Nutrition (per serving)
 
-- Calories: 70
-- Protein: 6g
-- Fat: 3g
-- Carbs: 5g
-- Sugar: 4g
-- Sodium: 40mg
+Per serving (1/10 of the recipe). Calculated from USDA data for each ingredient (see sources below).
+
+- Calories: 90
+- Protein: 7 g
+- Total fat: 4 g
+- Saturated fat: 2.5 g
+- Carbohydrates: 7 g
+- Fiber: 0 g
+- Sugars: 5 g
+- Sodium: 55 mg
+- Cholesterol: 15 mg
+
+**Sources and assumptions:**
+
+- Nutrient values come from the USDA National Nutrient Database for Standard Reference, Legacy Release (SR Legacy). It is available in [USDA FoodData Central](https://fdc.nal.usda.gov/), where each entry can be found by its NDB number. Quantities were converted to grams using USDA portion weights where available.
+- USDA entries used: Greek yogurt (nonfat, 227 g): NDB 01256 (Yogurt, Greek, plain, nonfat); cream cheese: NDB 01017 (Cheese, cream); vanilla whey protein powder (1½ scoops, 45 g): NDB 14066 (Beverages, Protein powder whey based); berry compote/jam: NDB 19297 (Jams and preserves).
+- Uses 1½ scoops of protein powder, the middle of the 1–2 scoop range. Each extra ½ scoop adds about 5 calories and 1 g protein per serving.
+- Optional mix-ins and the pinch of turmeric are not included.
 
 ## Notes
 

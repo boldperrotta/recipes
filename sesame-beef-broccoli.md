@@ -42,9 +42,23 @@ A quick Asian-inspired stir-fry, about 30 minutes total including prep.
 
 ## Nutrition (per serving)
 
-- Calories: 392
-- Protein: 40g
-- Fat: 14g
-- Carbohydrates: 26g
-- Fiber: 3g
-- Sugar: 17g
+Per serving (¼ of the recipe). Calculated from USDA data for each ingredient (see sources below).
+
+| Nutrient | Without optional ingredients | With blackberries and honey |
+| --- | --- | --- |
+| Calories | 355 | 420 |
+| Protein | 43 g | 43 g |
+| Total fat | 13 g | 13 g |
+| Saturated fat | 4 g | 4 g |
+| Carbohydrates | 16 g | 32 g |
+| Fiber | 3.5 g | 5 g |
+| Sugars | 2.5 g | 17 g |
+| Sodium | 1330 mg | 1330 mg |
+| Cholesterol | 105 mg | 105 mg |
+
+**Sources and assumptions:**
+
+- Nutrient values come from the USDA National Nutrient Database for Standard Reference, Legacy Release (SR Legacy). It is available in [USDA FoodData Central](https://fdc.nal.usda.gov/), where each entry can be found by its NDB number. Quantities were converted to grams using USDA portion weights where available.
+- USDA entries used: flank steak (lean): NDB 23656 (Beef, flank, steak, separable lean only, trimmed to 0" fat, all grades, raw); broccoli: NDB 11090 (Broccoli, raw); red bell pepper (medium): NDB 11821 (Peppers, sweet, red, raw); yellow bell pepper (large): NDB 11951 (Peppers, sweet, yellow, raw); low-sodium beef stock: NDB 06188 (Soup, beef broth, less/reduced sodium, ready to serve); low-sodium soy sauce: NDB 16424 (Soy sauce made from soy and wheat (shoyu), low sodium); garlic: NDB 11215 (Garlic, raw); rice vinegar: NDB 02053 (Vinegar, distilled); ginger: NDB 11216 (Ginger root, raw); arrowroot starch: NDB 20003 (Arrowroot flour); sesame oil: NDB 04058 (Oil, sesame, salad or cooking); blackberries (optional): NDB 09042 (Blackberries, raw); raw honey (optional): NDB 19296 (Honey).
+- USDA has no entries for rice vinegar or Bragg Liquid Aminos, so distilled vinegar and low-sodium soy sauce are used. Liquid aminos are about as salty as low-sodium soy sauce, so sodium stays high either way.
+- Items listed without an amount (to taste, a pinch, garnishes, cooking spray, serving toppings) are not included.

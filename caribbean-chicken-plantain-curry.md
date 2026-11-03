@@ -48,10 +48,23 @@ A high-protein, high-carb curry meal prep with seasoned chicken, seared plantain
 
 ## Nutrition (per serving)
 
-- Calories: 480
-- Protein: 46g
-- Fat: 16g
-- Carbohydrates: 42g
-- Sodium: 480mg
-- Fiber: 8g
-- Sugar: 18g
+Per serving (¼ of the recipe). Calculated from USDA data for each ingredient (see sources below).
+
+- Calories: 555
+- Protein: 47 g
+- Total fat: 22 g
+- Saturated fat: 10 g
+- Carbohydrates: 49 g
+- Fiber: 10 g
+- Sugars: 20 g
+- Sodium: 340 mg
+- Cholesterol: 125 mg
+
+**Sources and assumptions:**
+
+- Nutrient values come from the USDA National Nutrient Database for Standard Reference, Legacy Release (SR Legacy). It is available in [USDA FoodData Central](https://fdc.nal.usda.gov/), where each entry can be found by its NDB number. Quantities were converted to grams using USDA portion weights where available.
+- USDA entries used: cauliflower: NDB 11135 (Cauliflower, raw); bouillon seasoning: NDB 06080 (Soup, chicken broth or bouillon, dry); thyme: NDB 02042 (Spices, thyme, dried); avocado oil: NDB 04581 (Oil, avocado); plantains: NDB 09277 (Plantains, raw); chicken breasts: NDB 05062 (Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw); olive oil: NDB 04053 (Oil, olive, salad or cooking); garlic: NDB 11215 (Garlic, raw); green onion: NDB 11291 (Onions, spring or scallions (includes tops and bulb), raw); cayenne: NDB 02031 (Spices, pepper, red or cayenne); salt: NDB 02047 (Salt, table); curry powder: NDB 02015 (Spices, curry powder); lite coconut milk: estimated as 1 part canned coconut milk (NDB 12118) to 2 parts water.
+- USDA has no entry for lite coconut milk, so it is estimated by diluting the USDA canned coconut milk entry. Brands vary, so check your label.
+- "1½ large heads" of cauliflower is taken as 1,260 g, using the USDA weight for a large head (840 g).
+- The optional cornstarch slurry is not included. It adds about 8 calories and 2 g carbohydrates per serving.
+- Items listed without an amount (to taste, a pinch, garnishes, cooking spray, serving toppings) are not included.
