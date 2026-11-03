@@ -65,12 +65,22 @@ Source: [iFOODreal](https://ifoodreal.com/healthy-white-chicken-chili/)
 
 ## Nutrition (per serving)
 
-- Calories: 345
-- Protein: 22g
-- Fat: 12g
-- Saturated fat: 3g
-- Carbohydrates: 40g
-- Fiber: 10g
-- Sugar: 5g
-- Cholesterol: 42mg
-- Sodium: 664mg
+Per serving (⅙ of the recipe). Calculated from USDA data for each ingredient (see sources below).
+
+- Calories: 340
+- Protein: 38 g
+- Total fat: 7 g
+- Saturated fat: 1.5 g
+- Carbohydrates: 33 g
+- Fiber: 6 g
+- Sugars: 4 g
+- Sodium: 875 mg
+- Cholesterol: 85 mg
+
+**Sources and assumptions:**
+
+- Nutrient values come from the USDA National Nutrient Database for Standard Reference, Legacy Release (SR Legacy). It is available in [USDA FoodData Central](https://fdc.nal.usda.gov/), where each entry can be found by its NDB number. Quantities were converted to grams using USDA portion weights where available.
+- USDA entries used: chicken breasts: NDB 05062 (Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw); onion (small): NDB 11282 (Onions, raw); garlic: NDB 11215 (Garlic, raw); avocado oil: NDB 04581 (Oil, avocado); low-sodium chicken broth: NDB 06970 (Soup, chicken broth, low sodium, canned); great Northern beans (about 250 g drained per can): NDB 16026 (Beans, great northern, mature seeds, canned); corn: NDB 11178 (Corn, sweet, yellow, frozen, kernels cut off cob, unprepared); diced green chilies: NDB 11980 (Peppers, chili, green, canned); cumin: NDB 02014 (Spices, cumin seed); oregano: NDB 02027 (Spices, oregano, dried); chili powder: NDB 02009 (Spices, chili powder); cayenne: NDB 02031 (Spices, pepper, red or cayenne); salt: NDB 02047 (Salt, table); black pepper: NDB 02030 (Spices, pepper, black); cilantro (about 25 g): NDB 11165 (Coriander (cilantro) leaves, raw); 2% Greek yogurt: NDB 01287 (Yogurt, Greek, plain, lowfat); lime juice: NDB 09160 (Lime juice, raw).
+- Uses frozen corn and great Northern beans. Cannellini beans (NDB 16051) give nearly identical results.
+- Most of the sodium comes from the 1 tsp salt (about 390 mg per serving) and the canned beans and chilies.
+- Serving toppings (tortilla chips, avocado) are not included.

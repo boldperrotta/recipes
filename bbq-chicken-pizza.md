@@ -4,7 +4,7 @@ A healthier take on BBQ chicken pizza made with whole wheat dough, grilled or ba
 
 Source: [Fit Men Cook](https://fitmencook.com/recipes/healthy-bbq-pizza/)
 
-**Servings:** One 12-inch pizza
+**Servings:** One 12-inch pizza (8 slices)
 **Cook time:** 15 minutes
 **Total time:** 15 minutes
 
@@ -34,9 +34,24 @@ Source: [Fit Men Cook](https://fitmencook.com/recipes/healthy-bbq-pizza/)
 
 ## Nutrition (per serving)
 
-- Calories: 195
-- Protein: 19g
-- Fat: 4g
-- Carbohydrates: 21g
-- Fiber: 2g
-- Sugar: 3g
+Per serving (⅛ of the pizza, 1 slice). Calculated from USDA data for each ingredient (see sources below).
+
+- Calories: 230
+- Protein: 19 g
+- Total fat: 4.5 g
+- Saturated fat: 1.5 g
+- Carbohydrates: 29 g
+- Fiber: 3 g
+- Sugars: 8 g
+- Sodium: 520 mg
+- Cholesterol: 40 mg
+
+**Sources and assumptions:**
+
+- Nutrient values come from the USDA National Nutrient Database for Standard Reference, Legacy Release (SR Legacy). It is available in [USDA FoodData Central](https://fdc.nal.usda.gov/), where each entry can be found by its NDB number. Quantities were converted to grams using USDA portion weights where available.
+- USDA entries used: corn meal: NDB 20022 (Cornmeal, degermed, enriched, yellow); wheat pizza dough: estimated as whole-grain wheat flour (NDB 20080), water, 2% olive oil (NDB 04053) and 1% salt (NDB 02047); BBQ sauce: NDB 06150 (Sauce, barbecue); cooked chicken breast: NDB 05064 (Chicken, broilers or fryers, breast, meat only, cooked, roasted); red onion: NDB 11282 (Onions, raw); reduced fat mozzarella: NDB 01271 (Cheese, mozzarella, low moisture, part-skim, shredded).
+- The recipe doesn't give a serving count. These figures assume the pizza is cut into 8 slices.
+- USDA has no entry for store-bought whole-wheat pizza dough, so it is estimated from whole-wheat flour, water, oil and salt. Check your dough's label.
+- BBQ sauce uses the standard USDA entry. A low-calorie or sugar-free BBQ sauce saves up to about 35 calories, 8 g carbohydrates and 7 g sugars per slice.
+- The USDA part-skim mozzarella entry is used for the reduced fat mozzarella.
+- Items listed without an amount (to taste, a pinch, garnishes, cooking spray, serving toppings) are not included.

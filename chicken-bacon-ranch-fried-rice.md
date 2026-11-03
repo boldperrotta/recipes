@@ -53,7 +53,23 @@ Ranch-seasoned chicken, crispy bacon, jalapeno ranch, and day-old rice — a mea
 
 ## Nutrition (per serving)
 
-- Calories: 500
-- Protein: 42g
-- Carbohydrates: 49g
-- Fat: 17g
+Per serving (⅕ of the recipe, with about 50 g of jalapeño ranch). Calculated from USDA data for each ingredient (see sources below).
+
+- Calories: 455
+- Protein: 46 g
+- Total fat: 18 g
+- Saturated fat: 6 g
+- Carbohydrates: 23 g
+- Fiber: 0.5 g
+- Sugars: 4.5 g
+- Sodium: 1125 mg
+- Cholesterol: 180 mg
+
+**Sources and assumptions:**
+
+- Nutrient values come from the USDA National Nutrient Database for Standard Reference, Legacy Release (SR Legacy). It is available in [USDA FoodData Central](https://fdc.nal.usda.gov/), where each entry can be found by its NDB number. Quantities were converted to grams using USDA portion weights where available.
+- USDA entries used: chicken thighs: NDB 05096 (Chicken, broilers or fryers, dark meat, thigh, meat only, raw); bacon (cooked weight, 11.5 g per slice): NDB 10862 (Pork, cured, bacon, pre-sliced, cooked, pan-fried); ranch seasoning: estimated as 23 g dried buttermilk (NDB 01094) + 5 g table salt (NDB 02047); smoked paprika: NDB 02028 (Spices, paprika); cooked rice: NDB 20045 (Rice, white, long-grain, regular, enriched, cooked); 0% Greek yogurt: NDB 01256 (Yogurt, Greek, plain, nonfat); light mayo: NDB 04641 (Salad dressing, mayonnaise, light); low-fat buttermilk: NDB 01088 (Milk, buttermilk, fluid, cultured, lowfat); garlic powder: NDB 02020 (Spices, garlic powder); onion powder: NDB 02026 (Spices, onion powder); chives: NDB 11156 (Chives, raw); cilantro: NDB 11165 (Coriander (cilantro) leaves, raw); lime juice: NDB 09160 (Lime juice, raw); jalapeños: NDB 11979 (Peppers, jalapeno, raw).
+- The jalapeño ranch makes about 630 g. Only the 250 g used for 5 servings (50 g each) is counted. The rest is leftover sauce.
+- USDA has no entry for dry ranch seasoning packets, so the 28 g packet is estimated from dried buttermilk and salt. Most of its effect is on sodium, so check your packet's label.
+- Center-cut bacon is a little leaner than the standard USDA bacon entry used here.
+- Items listed without an amount (to taste, a pinch, garnishes, cooking spray, serving toppings) are not included.

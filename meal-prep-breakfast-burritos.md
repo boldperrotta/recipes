@@ -45,11 +45,23 @@ Source: [Kay Nutrition](https://kaynutrition.com/meal-prep-breakfast-burritos/)
 - **Refrigerated:** oven/toaster oven at 400°F for 10–15 minutes, or microwave for 2–4 minutes.
 - **Frozen:** oven/toaster oven at 400°F for 25–30 minutes, or microwave for 5–7 minutes.
 
-## Nutrition (per burrito)
+## Nutrition (per serving)
 
-- Calories: 579
-- Protein: 28g
-- Carbohydrates: 37g
-- Fat: 35g
-- Fiber: 2g
-- Sugar: 2g
+Per serving (1 burrito, ⅛ of the recipe). Calculated from USDA data for each ingredient (see sources below).
+
+- Calories: 665
+- Protein: 29 g
+- Total fat: 40 g
+- Saturated fat: 14 g
+- Carbohydrates: 48 g
+- Fiber: 4.5 g
+- Sugars: 5 g
+- Sodium: 1325 mg
+- Cholesterol: 340 mg
+
+**Sources and assumptions:**
+
+- Nutrient values come from the USDA National Nutrient Database for Standard Reference, Legacy Release (SR Legacy). It is available in [USDA FoodData Central](https://fdc.nal.usda.gov/), where each entry can be found by its NDB number. Quantities were converted to grams using USDA portion weights where available.
+- USDA entries used: olive oil: NDB 04053 (Oil, olive, salad or cooking); white potatoes: NDB 11354 (Potatoes, white, flesh and skin, raw); garlic powder: NDB 02020 (Spices, garlic powder); salt: NDB 02047 (Salt, table); black pepper: NDB 02030 (Spices, pepper, black); pork sausage: NDB 07063 (Pork sausage, link/patty, unprepared); onion (medium): NDB 11282 (Onions, raw); green bell pepper (medium): NDB 11333 (Peppers, sweet, green, raw); butter (salted): NDB 01001 (Butter, salted); eggs (large): NDB 01123 (Egg, whole, raw, fresh); cheddar cheese: NDB 01009 (Cheese, cheddar); 10-inch flour tortillas (72 g each): NDB 18364 (Tortillas, ready-to-bake or -fry, flour, refrigerated).
+- Uses pork sausage. Turkey breakfast sausage (NDB 07919) saves about 30 calories and 4 g fat per burrito.
+- Optional toppings (salsa, sour cream, avocado) are not included.
