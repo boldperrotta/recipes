@@ -32,3 +32,4 @@ Recipes organized by meal type.
 ## Desserts
 
 - [High Protein Frozen Greek Yogurt Cheesecake Bark](desserts/high-protein-frozen-greek-yogurt-cheesecake-bark.md)
+- [White Chocolate Ice Cream](desserts/white-chocolate-ice-cream.md)
