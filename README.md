@@ -4,6 +4,7 @@ Recipes organized by meal type.
 
 ## Breakfast
 
+- [Double Chocolate Protein Muffins](breakfast/double-chocolate-protein-muffins.md)
 - [High Protein Egg Muffins](breakfast/high-protein-egg-muffins.md)
 - [Meal Prep Breakfast Burritos](breakfast/meal-prep-breakfast-burritos.md)
 - [Red Eye Protein Parfait](breakfast/red-eye-protein-parfait.md)
