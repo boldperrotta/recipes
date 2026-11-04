@@ -31,5 +31,6 @@ Recipes organized by meal type.
 
 ## Desserts
 
+- [Guinness, Whiskey & Irish Cream Cupcakes](desserts/guinness-whiskey-irish-cream-cupcakes.md)
 - [High Protein Frozen Greek Yogurt Cheesecake Bark](desserts/high-protein-frozen-greek-yogurt-cheesecake-bark.md)
 - [White Chocolate Ice Cream](desserts/white-chocolate-ice-cream.md)
