@@ -19,6 +19,7 @@ Recipes organized by meal type.
 - [Healthy White Chicken Chili](lunch-and-dinner/healthy-white-chicken-chili.md)
 - [Mexican Beef and Rice Casserole](lunch-and-dinner/mexican-beef-and-rice-casserole.md)
 - [Sesame Beef Broccoli](lunch-and-dinner/sesame-beef-broccoli.md)
+- [Thai Coconut Curry Chicken Gyoza Bake](lunch-and-dinner/thai-coconut-curry-chicken-gyoza-bake.md)
 
 ## Sides
 
