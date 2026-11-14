@@ -17,6 +17,7 @@ Recipes organized by meal type.
 - [Caribbean-Inspired Chicken & Plantain Curry Meal Prep](lunch-and-dinner/caribbean-chicken-plantain-curry.md)
 - [Chicken Bacon Ranch Fried Rice](lunch-and-dinner/chicken-bacon-ranch-fried-rice.md)
 - [Healthy White Chicken Chili](lunch-and-dinner/healthy-white-chicken-chili.md)
+- [High-Protein Mac and Cheese](lunch-and-dinner/high-protein-mac-and-cheese.md)
 - [Mexican Beef and Rice Casserole](lunch-and-dinner/mexican-beef-and-rice-casserole.md)
 - [Sesame Beef Broccoli](lunch-and-dinner/sesame-beef-broccoli.md)
 - [Thai Coconut Curry Chicken Gyoza Bake](lunch-and-dinner/thai-coconut-curry-chicken-gyoza-bake.md)
